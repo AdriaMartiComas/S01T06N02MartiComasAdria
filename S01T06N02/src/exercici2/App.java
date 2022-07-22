@@ -16,7 +16,8 @@ public class App {
 		System.out.println("4 persones");
 		GenericMethods.printGenericMethods(persona1, persona2, persona3, persona4);
 
-
+ 
+		
 	}
 	
 	

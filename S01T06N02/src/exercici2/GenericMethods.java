@@ -21,5 +21,6 @@ public class GenericMethods<T, S, V> {
 	public String toString() {
 		return "GenericMethods [ob1=" + ob1 + ", ob2=" + ob2 + ", ob3=" + ob3 + "]";
 	}
+	
 
 }
